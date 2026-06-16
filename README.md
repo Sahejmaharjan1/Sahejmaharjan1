@@ -1,70 +1,89 @@
-<div align="center">
+<h1 align="center">Sahej Maharjan</h1>
+<p align="center"><strong>AI Engineer · Full-Stack</strong> · Dublin, Ireland</p>
+<p align="center">Building production-grade multi-agent systems and RAG pipelines on GCP.<br/>Currently shipping AI at <strong>Tactix AI</strong> · MSc Big Data @ <strong>Griffith College Dublin</strong></p>
 
-# Hi, I'm Sahej Maharjan
+<p align="center">
+  <a href="https://sahejmaharjan.com.np"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sahej-maharjan-433a34105/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sahejmaharjan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://stackoverflow.com/users/13797926/sahej-maharjan"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+</p>
 
-**AI Engineer · Full-Stack** · Dublin, Ireland
+<br/>
 
-Building production-grade **multi-agent systems** and **RAG pipelines** on GCP.  
-Currently at **Tactix AI** · MSc Big Data @ **Griffith College Dublin**
+```python
+profile = {
+    "name": "Sahej Maharjan",
+    "location": "Dublin, Ireland",
+    "company": "Tactix AI (via DVx Ventures)",
+    "focus": ["multi-agent systems", "RAG", "data engineering"],
+    "infra": ["GCP Cloud Run", "BigQuery", "AWS", "Supabase"],
+    "frameworks": ["Google ADK", "FastAPI", "React", "Next.js", "MCP", "n8n"],
+    "status": "building · shipping · writing",
+}
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sahejmaharjan.com.np-7c3aed?style=for-the-badge)](https://sahejmaharjan.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahej-maharjan-433a34105/)
-[![Email](https://img.shields.io/badge/Email-sahejmaharjan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahejmaharjan@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13797926/sahej-maharjan)
+<br/>
 
-</div>
+| **5+** years | **3** AI systems | **#2** Product Hunt |
+|:---:|:---:|:---:|
+| engineering | in production | Indigo launch |
 
----
+<br/>
 
 ### Tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,nodejs,postgres,docker,gcp,aws&perline=11" alt="Tech stack" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat&logo=google&logoColor=white" alt="Google ADK" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=openai&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+</p>
 
----
+<br/>
 
-### GitHub stats
+### Currently building
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahejmaharjan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahejmaharjan1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahejmaharjan1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-### What I'm working on
-
-- Multi-agent AI platforms with **Google ADK** on **GCP Cloud Run**
+- Multi-agent AI platform with **Google ADK** on **GCP Cloud Run**
 - **RAG** pipelines over **BigQuery** with **dbt**-transformed models
-- Access control systems for production AI (hybrid RBAC/ACL)
+- Access control that scopes every agent call to what the user can see
 - Full-stack delivery with **React** and **Next.js**
 
----
+<br/>
 
 ### Writing
 
-- [Rebuilding our Access Control for AI Agents](https://blog.dvx.ventures/access-control-for-ai-agents) — DVx Engineering Blog
-- [Automating vacation-rental ops with n8n](https://sahejmaharjan.com.np/blog/automating-vacation-rental-ops-with-n8n) — personal blog
+| Post | Where |
+|------|-------|
+| [Rebuilding our Access Control for AI Agents](https://blog.dvx.ventures/access-control-for-ai-agents) | DVx Engineering Blog |
+| [Automating vacation-rental ops with n8n](https://sahejmaharjan.com.np/blog/automating-vacation-rental-ops-with-n8n) | Personal blog |
 
----
+<br/>
 
-<div align="center">
+### Open source
 
-Open to conversations about **multi-agent systems**, **data platforms**, and **production AI**.
+[![Codú PR #1283](https://img.shields.io/badge/Codú-merged_PR_%231283-18181B?style=for-the-badge)](https://github.com/codu-code/codu/pull/1283)
+Company logo upload for job creation — client validation, S3 signed URLs, Zod schema extension
 
-</div>
+<br/>
+
+### GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahejmaharjan1&theme=tokyo-night&hide_border=true&area=true&height=300" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahejmaharjan1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</p>
+
+<br/>
+
+<p align="center">
+  Open to conversations about <strong>multi-agent systems</strong>, <strong>data platforms</strong>, and <strong>production AI</strong>.<br/>
+  <a href="https://sahejmaharjan.com.np">sahejmaharjan.com.np</a>
+</p>
