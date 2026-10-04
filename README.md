@@ -1,6 +1,6 @@
 <h1 align="center">Sahej Maharjan</h1>
 <p align="center"><strong>AI Engineer · Full-Stack</strong> · Dublin, Ireland</p>
-<p align="center">Building production-grade multi-agent systems and RAG pipelines on GCP.<br/>Currently shipping AI at <strong>Tactix AI</strong> · MSc Big Data @ <strong>Griffith College Dublin</strong></p>
+<p align="center">Building production-grade multi-agent systems and RAG pipelines on GCP.<br/>Currently shipping AI at <strong>Tactix AI</strong><br/>MSc Big Data Management &amp; Analytics · First Class Honours · <strong>Griffith College Dublin</strong></p>
 
 <p align="center">
   <a href="https://sahejmaharjan.com.np"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -16,6 +16,7 @@ profile = {
     "name": "Sahej Maharjan",
     "location": "Dublin, Ireland",
     "company": "Tactix AI (via DVx Ventures)",
+    "education": "MSc Big Data Management & Analytics, First Class Honours",
     "focus": ["multi-agent systems", "RAG", "data engineering"],
     "infra": ["GCP Cloud Run", "BigQuery", "AWS", "Supabase"],
     "frameworks": ["Google ADK", "FastAPI", "React", "Next.js", "MCP", "n8n"],
@@ -57,8 +58,12 @@ profile = {
 
 ### Writing
 
+Co-authored three engineering posts on the DVx Ventures blog.
+
 | Post | Where |
 |------|-------|
+| [We stopped treating agent latency as one number.](https://blog.dvx.ventures/we-stopped-treating-agent-latency-as-one-number) | DVx Engineering Blog |
+| [The agent doesn't hold the data. It decides where to go get it.](https://blog.dvx.ventures/the-agent-doesnt-hold-the-data) | DVx Engineering Blog |
 | [Rebuilding our Access Control for AI Agents](https://blog.dvx.ventures/access-control-for-ai-agents) | DVx Engineering Blog |
 | [Automating vacation-rental ops with n8n](https://sahejmaharjan.com.np/blog/automating-vacation-rental-ops-with-n8n) | Personal blog |
 
